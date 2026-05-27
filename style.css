@@ -2,3 +2,12 @@
     margin: 0;
     padding: 0;
   }
+
+  .cabecalho{
+    padding: 15px 25px;
+  }
+
+  .cartao{
+    height: 260px; 
+    width: 200px; 
+  }
