@@ -9,6 +9,7 @@
   justify-content: space-between;
   align-items: center;
   background-color: rgb(94, 30, 30);
+
   }
 
   .cartao{
@@ -28,4 +29,8 @@
 
   main {
     flex: 1;
+  }
+
+  .cabecalho-link{
+    color: aliceblue;
   }
