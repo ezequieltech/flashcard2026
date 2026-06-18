@@ -33,4 +33,9 @@
 
   .cabecalho-link{
     color: aliceblue;
+    text-decoration: none;
+  }
+
+  h1{
+    color: aliceblue;
   }
